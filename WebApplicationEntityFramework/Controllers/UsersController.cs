@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using WebApplicationEntityFramework.BusinessLogic;
 using WebApplicationEntityFramework.Data;
 
 namespace WebApplicationEntityFramework.Controllers
@@ -27,7 +28,7 @@ namespace WebApplicationEntityFramework.Controllers
         {
             try
             {
-                var eldest = BusinessLogic.GetEldest(UserRepository.GetAllUsers());
+                var eldest = Business.GetEldestUser(UserRepository.GetAllUsers());
 
                 if (pageSize == null)
                 {
@@ -78,7 +79,7 @@ namespace WebApplicationEntityFramework.Controllers
 
             try
             {
-                var eldest = BusinessLogic.GetEldest(UserRepository.GetAllUsers());
+                var eldest = Business.GetEldestUser(UserRepository.GetAllUsers());
 
                 var user = this.UserRepository.GetUser(id);
                 if (user == null)

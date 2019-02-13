@@ -11,4 +11,3 @@ D:\Desktop\Holanda\WebAppChallengeORMExample\WebApplicationEntityFramework\obj\D
 D:\Desktop\Holanda\WebAppChallengeORMExample\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.RazorTargetAssemblyInfo.cache
 D:\Desktop\Holanda\WebAppChallengeORMExample\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.dll
 D:\Desktop\Holanda\WebAppChallengeORMExample\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.pdb
-D:\Desktop\Holanda\WebAppChallengeORMExample\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.csprojAssemblyReference.cache

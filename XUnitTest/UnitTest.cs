@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using WebApplicationEntityFramework.BusinessLogic;
 using WebApplicationEntityFramework.Data;
 using Xunit;
 
@@ -22,7 +23,7 @@ namespace XUnitTest
                 new User() { IdValue="ZZZ",BirthDate = new DateTime(1972,8,5) },
             });            
 
-            Assert.Equal("33", BusinessLogic.GetEldest(users).IdValue);
+            Assert.Equal("33", Business.GetEldestUser(users).IdValue);
         }
     }
 }

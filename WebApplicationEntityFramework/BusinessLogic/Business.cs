@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplicationEntityFramework.Data;
 
-namespace WebApplicationEntityFramework.Data
+namespace WebApplicationEntityFramework.BusinessLogic
 {
-    public class BusinessLogic
+    public class Business
     {
-        public static User GetEldest(IEnumerable<User> users)
+        public static User GetEldestUser(IEnumerable<User> users)
         {
             User oldestUser = users.First();
 
@@ -21,5 +22,6 @@ namespace WebApplicationEntityFramework.Data
 
             return oldestUser;
         }
+
     }
 }
