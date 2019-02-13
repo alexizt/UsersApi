@@ -9,7 +9,7 @@ Once executed, the following endpoints can be accessed by Postman or another Res
 * GET
 localhost:5001/api/users  (Gets all users)
 
-* GET + Plus querystring paging parameters
+* GET Plus querystring paging parameters
 Ejemplo: localhost:5001/api/users?pageSize=1&page=3  (Get all users with pagination)
 
 * GET api/users/{id}
