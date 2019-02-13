@@ -1,0 +1,17 @@
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.deps.json
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.runtimeconfig.json
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.runtimeconfig.dev.json
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.dll
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.pdb
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\WebApplicationEntityFramework.dll
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\bin\Debug\netcoreapp2.2\WebApplicationEntityFramework.pdb
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.csprojAssemblyReference.cache
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.csproj.CoreCompileInputs.cache
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.AssemblyInfoInputs.cache
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.AssemblyInfo.cs
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.csproj.CopyComplete
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.dll
+D:\Desktop\Holanda\WebAppChallengeORMExample\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.pdb
