@@ -30,38 +30,27 @@ namespace WebApplicationEntityFramework.Controllers
             {
                 var eldest = Business.GetEldestUser(UserRepository.GetAllUsers());
 
+                var users = this.UserRepository.GetAllUsers().Select(u => new
+                {
+                    u.IdValue,
+                    u.Name,
+                    u.Gender,
+                    u.Email,
+                    u.BirthDate,
+                    u.Uuid,
+                    u.UserName,
+                    IsEldest = (eldest.IdValue == u.IdValue),
+                    u.Location
+                });
+
                 if (pageSize == null)
                 {
-                    var result = this.UserRepository.GetAllUsers().Select(u => new
-                    {
-                        u.IdValue,
-                        u.Name,
-                        u.Gender,
-                        u.Email,
-                        u.BirthDate,
-                        u.Uuid,
-                        u.UserName,
-                        IsEldest = (eldest.IdValue == u.IdValue),
-                        u.Location
-                    }).OrderBy(u => u.Name);
-
-                    return Ok(result.ToList());
+                    return Ok(users.OrderBy(u => u.Name).ToList());
                 }
                 else
                 {
-                    var users = this.UserRepository.GetAllUsers().OrderBy(u => u.Name).Select(u => new {
-                        u.IdValue,
-                        u.Name,
-                        u.Gender,
-                        u.Email,
-                        u.BirthDate,
-                        u.Uuid,
-                        u.UserName,
-                        IsEldest = (eldest.IdValue == u.IdValue),
-                        u.Location
-                    });
                     int totalUsers = users.Count();
-                    var usersPage = users.Skip(page.Value * pageSize.Value).Take(pageSize.Value);
+                    var usersPage = users.Skip(page.Value * pageSize.Value).Take(pageSize.Value).ToList();
                     return Ok(new { users = usersPage, totalUsers, page, pageSize });
                 }
 
