@@ -11,3 +11,16 @@ D:\Desktop\Holanda\WebAppChallengeORMExample\WebApplicationEntityFramework\obj\D
 D:\Desktop\Holanda\WebAppChallengeORMExample\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.RazorTargetAssemblyInfo.cache
 D:\Desktop\Holanda\WebAppChallengeORMExample\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.dll
 D:\Desktop\Holanda\WebAppChallengeORMExample\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.pdb
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\bin\Debug\netcoreapp2.2\WebApplicationEntityFramework.deps.json
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\bin\Debug\netcoreapp2.2\WebApplicationEntityFramework.runtimeconfig.json
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\bin\Debug\netcoreapp2.2\WebApplicationEntityFramework.runtimeconfig.dev.json
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\bin\Debug\netcoreapp2.2\WebApplicationEntityFramework.dll
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\bin\Debug\netcoreapp2.2\WebApplicationEntityFramework.pdb
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.RazorAssemblyInfo.cache
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.RazorAssemblyInfo.cs
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.AssemblyInfoInputs.cache
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.AssemblyInfo.cs
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.RazorTargetAssemblyInfo.cache
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.dll
+C:\Users\Ale\Source\Repos\alexizt\UsersApi\WebApplicationEntityFramework\obj\Debug\netcoreapp2.2\WebApplicationEntityFramework.pdb

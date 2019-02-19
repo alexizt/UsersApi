@@ -12417,11 +12417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Holanda\\WebAppChallengeORMExample\\WebApplicationEntityFramework\\WebApplicationEntityFramework.csproj",
+      "projectUniqueName": "C:\\Users\\Ale\\Source\\Repos\\alexizt\\UsersApi\\WebApplicationEntityFramework\\WebApplicationEntityFramework.csproj",
       "projectName": "WebApplicationEntityFramework",
-      "projectPath": "D:\\Desktop\\Holanda\\WebAppChallengeORMExample\\WebApplicationEntityFramework\\WebApplicationEntityFramework.csproj",
+      "projectPath": "C:\\Users\\Ale\\Source\\Repos\\alexizt\\UsersApi\\WebApplicationEntityFramework\\WebApplicationEntityFramework.csproj",
       "packagesPath": "C:\\Users\\Ale\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Holanda\\WebAppChallengeORMExample\\WebApplicationEntityFramework\\obj\\",
+      "outputPath": "C:\\Users\\Ale\\Source\\Repos\\alexizt\\UsersApi\\WebApplicationEntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

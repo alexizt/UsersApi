@@ -6936,11 +6936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Holanda\\WebAppChallengeORMExample\\XUnitTest\\XUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Ale\\Source\\Repos\\alexizt\\UsersApi\\XUnitTest\\XUnitTest.csproj",
       "projectName": "XUnitTest",
-      "projectPath": "D:\\Desktop\\Holanda\\WebAppChallengeORMExample\\XUnitTest\\XUnitTest.csproj",
+      "projectPath": "C:\\Users\\Ale\\Source\\Repos\\alexizt\\UsersApi\\XUnitTest\\XUnitTest.csproj",
       "packagesPath": "C:\\Users\\Ale\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Holanda\\WebAppChallengeORMExample\\XUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Ale\\Source\\Repos\\alexizt\\UsersApi\\XUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6959,8 +6959,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Desktop\\Holanda\\WebAppChallengeORMExample\\WebApplicationEntityFramework\\WebApplicationEntityFramework.csproj": {
-              "projectPath": "D:\\Desktop\\Holanda\\WebAppChallengeORMExample\\WebApplicationEntityFramework\\WebApplicationEntityFramework.csproj"
+            "C:\\Users\\Ale\\Source\\Repos\\alexizt\\UsersApi\\WebApplicationEntityFramework\\WebApplicationEntityFramework.csproj": {
+              "projectPath": "C:\\Users\\Ale\\Source\\Repos\\alexizt\\UsersApi\\WebApplicationEntityFramework\\WebApplicationEntityFramework.csproj"
             }
           }
         }

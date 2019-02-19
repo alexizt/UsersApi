@@ -113,8 +113,8 @@ namespace WebApplicationEntityFramework.Controllers
             }
             catch (Exception)
             {
-
-                throw;
+                return StatusCode(500);
+                //throw;
             }
 
             return NoContent();
@@ -135,8 +135,8 @@ namespace WebApplicationEntityFramework.Controllers
             }
             catch (Exception)
             {
-
-                throw;
+                return StatusCode(500);
+                //throw;
             }
 
             return NoContent();
